@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+}
+
+a {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 18pt;
+    margin: 15px 0;
+    -webkit-transition: all 0.7s ease;
+    -moz-transition: all 0.7s ease;
+    -o-transition: all 0.7s ease;
+    text-decoration: none;
+    color: black;
+}
+ 
+a:hover {
+	margin-left: -50px;
+    border: 2px solid dimgrey;
+}
